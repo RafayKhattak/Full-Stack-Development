@@ -1,4 +1,4 @@
-# To-Do-Lis
+# To-Do-List
 
 #### Check out: https://todolist-rafaykhattak.netlify.app/
 
